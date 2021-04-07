@@ -5,6 +5,7 @@ Actividades requeridas para el desarrollo del proyecto:
   Mostrar diferente interfaz dependiendo de si el usuario está registrado, o es visitante y sus características.
   Programar un metrónomo, afinador, tablatura, etc...
   Crear una interfaz que sea amigable con el usuario y conectarla al código de Python pertinente.
+  
 Contenido de cada informe:
  Informe 03: Presentar el sistema de registro de usuario e imprimir un texto u otro, diferentes, al haberse registrado o no y que dependa de sus características.
  Informe 04: Presentar la base de datos, en la cual se almacenará el nombre de usuario, el trato que desea recibir, en qué plan está, qué instrumento(s) posee, entre otras características. Todo ello presentado, por ahora, como texto (print).
