@@ -14,6 +14,7 @@ Actividades requeridas para el desarrollo del proyecto:
   
   
 Contenido de cada informe:
+
  Informe 03: Presentar el sistema de registro de usuario e imprimir un texto u otro, diferentes, al haberse registrado o no y que dependa de sus características.
  
  Informe 04: Presentar la base de datos, en la cual se almacenará el nombre de usuario, el trato que desea recibir, en qué plan está, qué instrumento(s) posee, entre otras características. Todo ello presentado, por ahora, como texto (print).
