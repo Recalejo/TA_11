@@ -1,4 +1,5 @@
 Actividades requeridas para el desarrollo del proyecto:
+ 
  Aprender a:
  
   Desarrollar un sistema de registro de usuario.
