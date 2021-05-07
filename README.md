@@ -1,1 +1,0 @@
-Alejandro Rendón Cardona
