@@ -1,0 +1,3 @@
+Se desarrolló una interfaz desde cero, es una interfaz inicial, solo para demostrar las ubicaciones de los diferentes componentes en el programa como tal, no muestra un diseño final, ni un funcionamiento, es puramente una base para tener una pequeña idea de cómo será la final.
+
+Aclaración: Para la ejecución del código, se necesita tener el archivo "Cuone logo.ico" (presente en la carpeta "códigos") descargado y en la misma carpeta en la que se descargue el código.
